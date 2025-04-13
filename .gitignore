@@ -1,0 +1,11 @@
+# Ignore .env files (to keep API keys secure)
+.env
+
+# Ignore Python cache files
+*.pyc
+__pycache__/
+
+# Ignore virtual environment folder
+venv/
+
+# You can add other files or directories you want to ignore here
